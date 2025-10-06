@@ -1,0 +1,56 @@
+# =========================================================
+# .gitignore for Instrument Classification Deep Learning Project
+# =========================================================
+
+# ---- Data ----
+data/
+*.wav
+*.mp3
+*.zip
+*.tar
+*.tar.gz
+
+# ---- Model files ----
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# ---- Python cache / temp ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ---- Jupyter notebooks checkpoints ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Logs ----
+logs/
+*.log
+*.txt
+
+# ---- Results and plots ----
+results/
+*.png
+*.jpg
+
+# ---- System / IDE ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+venv/
+.venv/
+
+# ---- Kaggle API Key ----
+.kaggle/
+kaggle.json
+
+# ---- Temporary files ----
+*.tmp
+*.bak
+*.swp
