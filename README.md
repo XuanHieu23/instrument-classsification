@@ -7,6 +7,14 @@ D# 🎵 Instrument Classification Project (3 instruments)
 - **Nobita**
 - **Dương**
 - **Onip**
+- | Thành viên | Branch                       | Phần chính phụ trách                          |
+| ---------- | ---------------------------- | --------------------------------------------- |
+| **Hiếu**   | `feature-train-pipeline`     | Pipeline huấn luyện và tinh chỉnh mô hình     |
+| **Khang**  | `feature-model-eval`         | Mô hình CNN + đánh giá + demo                 |
+| **Nobita** | `feature-data-preprocessing` | Tiền xử lý và trích xuất đặc trưng            |
+| **Dương**  | `feature-sample-test`        | Dữ liệu mẫu và kiểm thử                       |
+| **Onip**   | `feature-visualization`      | Vẽ biểu đồ, confusion matrix và trực quan hóa |
+
 
 ---
 
