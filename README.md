@@ -1,5 +1,6 @@
 # instrument-classsification
 D# 🎵 Instrument Classification Project (3 instruments)
+link dataset : https://www.kaggle.com/datasets/soumendraprasad/musical-instruments-sound-dataset
 
 ## Thành viên nhóm
 - **Hiếu**
